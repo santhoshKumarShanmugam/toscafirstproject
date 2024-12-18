@@ -1,7 +1,6 @@
 @echo off
 cd C:
 cd Users
-cd S.Shanmugam3
 cd Tosca_Projects
 cd Tosca_Workspaces
 cd multiuser_con_git
