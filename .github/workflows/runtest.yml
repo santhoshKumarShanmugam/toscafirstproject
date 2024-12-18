@@ -15,4 +15,4 @@ jobs:
       - name: Run Batch File
         run: |
           cd C:\Users\S.Shanmugam3\Tosca_Projects\Tosca_Workspaces\multiuser_con_git
-          .\run_tosca_tests.bat
+          .\test.bat
