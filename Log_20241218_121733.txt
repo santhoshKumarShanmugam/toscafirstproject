@@ -1,0 +1,158 @@
+[3] 12:17:33 PM: Log started for 'C:\Users\S.Shanmugam3\Tosca_Projects\Tosca_Workspaces\multiuser_con_git\multiuser_con_git.tws'
+[3] 12:17:33 PM: Log level: 4
+[3] 12:17:33 PM: Release: 23.1.1.2528
+[3] 12:17:33 PM: Execution Approval is disabled.
+[3] 12:17:33 PM: Using the following service discovery: https://aennw01197poc1.europe.shell.com/
+[3] 12:17:33 PM: File Service is disabled.
+[3] 12:17:33 PM: ShouldSetAuthorizationHeader = True.
+[3] 12:17:33 PM:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 23.1.1.2528 (2528)
+[3] 12:17:33 PM:  + DistributedExecutionAddIn: DistributedExecutionAddIn 23.1.1.2528 (2528)
+[3] 12:17:33 PM:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 23.1.1.2528 (2528)
+[3] 12:17:33 PM:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 23.1.1.2528 (2528)
+[3] 12:17:33 PM:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 23.1.1.2528 (2528)
+[3] 12:17:33 PM:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 23.1.1.2528 (2528)
+[3] 12:17:33 PM:  + IntegrationManagementAddIn: IntegrationManagementAddIn 23.1.1.2528 (2528)
+    + : SAPSolutionManagerIntegration 23.1.1.2528 (2528)
+[3] 12:17:33 PM: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 12:17:33 PM: Searcher found 0 results in 15.6719 ms
+[3] 12:17:33 PM:  + OptIntAddIn: OptIntAddIn 23.1.1.2528 (2528)
+[3] 12:17:33 PM:  + QTestIntegrationAddIn: QTestIntegrationAddIn 23.1.1.2528 (2528)
+[3] 12:17:33 PM:  + RemoteControl: RemoteControlAddIn 23.1.1.2528 (2528)
+[3] 12:17:33 PM:  + Reporting: ReportingAddIn 23.1.1.2528 (2528)
+[3] 12:17:33 PM:  + ReportingUI: ReportingUIAddIn 23.1.1.2528 (2528)
+[3] 12:17:33 PM:  + RequirementsManagementAddIn: RequirementsManagement 23.1.1.2528 (2528)
+[3] 12:17:33 PM:  + RequirementsManagementUIAddIn: RequirementsManagementUI 23.1.1.2528 (2528)
+[3] 12:17:33 PM:  + SAPCloudAlmAddIn: SAPCloudAlmAddIn 23.1.1.2528 (2528)
+[3] 12:17:33 PM:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 23.1.1.2528 (2528)
+[3] 12:17:33 PM:  + TestCaseDesign: TestCaseDesign 23.1.1.2528 (2528)
+[3] 12:17:33 PM:  + ControlFlowDiagram: TestCaseVisualizationAddIn 23.1.1.2528 (2528)
+[3] 12:17:33 PM:  + XDefinitions: XDefinitions 23.1.1.2528 (2528)
+[3] 12:17:33 PM:  + XDefinitionsUI: XDefinitionsUI 23.1.1.2528 (2528)
+[3] 12:17:33 PM: Opened from Workspace File 'C:\Users\S.Shanmugam3\Tosca_Projects\Tosca_Workspaces\multiuser_con_git\multiuser_con_git.tws'
+[3] 12:17:33 PM: Trying to authenticate ldap user S.Shanmugam3 against workspace
+[3] 12:17:34 PM: Failed to authenticate ldap user against workspace
+[3] 12:17:35 PM: Workspace.Login for 'Admin'succeeded
+[4] 12:17:37 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 12:17:37 PM:  ShowStatusInfo: 'Ready'
+[4] 12:17:37 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 12:17:37 PM:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 12:17:37 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 12:17:37 PM:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 12:17:37 PM:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 12:17:37 PM:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 12:17:37 PM:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 12:17:37 PM:  ShowStatusInfo: 'Refresh navigation view 'multiuser_con_git''
+[4] 12:17:37 PM:  ShowStatusInfo: 'Ready'
+[4] 12:17:37 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 12:17:37 PM:  ShowStatusInfo: 'Ready'
+[4] 12:17:37 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 12:17:37 PM:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 12:17:37 PM:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 12:17:37 PM:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 12:17:37 PM:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 12:17:37 PM:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 12:17:37 PM:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 12:17:37 PM:  ShowStatusInfo: 'Refresh detail view 'multiuser_con_git''
+[4] 12:17:37 PM:  ShowStatusInfo: 'Ready'
+[4] 12:17:37 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:17:37 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 12:17:38 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:17:38 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 12:17:38 PM:  ShowStatusInfo: 'Ready'
+[4] 12:17:38 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 12:17:38 PM:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 12:17:38 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 12:17:38 PM:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 12:17:38 PM:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 12:17:38 PM:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 12:17:38 PM:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 12:17:38 PM:  ShowStatusInfo: 'Refresh navigation view 'multiuser_con_git''
+[4] 12:17:38 PM:  ShowStatusInfo: 'Ready'
+[4] 12:17:38 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 12:17:38 PM:  ShowStatusInfo: 'Ready'
+[4] 12:17:38 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 12:17:38 PM:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 12:17:38 PM:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 12:17:38 PM:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 12:17:38 PM:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 12:17:38 PM:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 12:17:38 PM:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 12:17:38 PM:  ShowStatusInfo: 'Refresh detail view 'multiuser_con_git''
+[4] 12:17:38 PM:  ShowStatusInfo: 'Ready'
+[4] 12:17:38 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:17:38 PM:  ShowStatusInfo: 'Refresh all finished'
+[3] 12:17:38 PM: OpenWorkspace took 00:00:04.5884754 to finish
+[3] 12:17:38 PM: File Service is disabled.
+[4] 12:17:40 PM:  ShowStatusInfo: '1 object selected'
+[4] 12:17:40 PM:  ShowStatusInfo: 'Ready'
+[3] 12:17:43 PM: Task 'Create Branch' started on ''
+[4] 12:17:43 PM:  ShowStatusInfo: 'Create Branch'
+[4] 12:17:48 PM:  ShowStatusInfo: 'Ready'
+[4] 12:17:52 PM:  ShowStatusInfo: 'Create Branch finalizing ... '
+[4] 12:17:52 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 12:17:52 PM:  ShowStatusInfo: 'Ready'
+[4] 12:17:52 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 12:17:52 PM:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 12:17:52 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 12:17:52 PM:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 12:17:52 PM:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 12:17:52 PM:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 12:17:52 PM:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 12:17:52 PM:  ShowStatusInfo: 'Refresh navigation view 'multiuser_con_git''
+[4] 12:17:52 PM:  ShowStatusInfo: 'Ready'
+[4] 12:17:52 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 12:17:52 PM:  ShowStatusInfo: 'Ready'
+[4] 12:17:52 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 12:17:52 PM:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 12:17:52 PM:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 12:17:52 PM:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 12:17:52 PM:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 12:17:52 PM:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 12:17:52 PM:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 12:17:52 PM:  ShowStatusInfo: 'Refresh detail view 'multiuser_con_git''
+[4] 12:17:52 PM:  ShowStatusInfo: 'Ready'
+[4] 12:17:52 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:17:52 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 12:17:52 PM:  ShowStatusInfo: 'Create Branch finished'
+[3] 12:17:52 PM: Task 'Create Branch' finished
+[4] 12:17:54 PM:  ShowStatusInfo: 'Ready'
+[4] 12:17:54 PM:  ShowStatusInfo: '1 object selected'
+[4] 12:17:55 PM:  ShowStatusInfo: 'Ready'
+[4] 12:17:55 PM:  ShowStatusInfo: '1 object selected'
+[4] 12:17:55 PM:  ShowStatusInfo: 'Ready'
+[4] 12:17:58 PM:  ShowStatusInfo: '1 object selected'
+[4] 12:17:58 PM:  ShowStatusInfo: 'Ready'
+[4] 12:17:59 PM:  ShowStatusInfo: '1 object selected'
+[4] 12:17:59 PM:  ShowStatusInfo: 'Ready'
+[4] 12:18:00 PM:  ShowStatusInfo: '1 object selected'
+[4] 12:18:00 PM:  ShowStatusInfo: 'Ready'
+[4] 12:18:03 PM:  ShowStatusInfo: '1 object selected'
+[4] 12:18:05 PM:  ShowStatusInfo: 'Ready'
+[4] 12:18:06 PM:  ShowStatusInfo: '1 object selected'
+[4] 12:18:07 PM:  ShowStatusInfo: 'Ready'
+[4] 12:18:08 PM:  ShowStatusInfo: '1 object selected'
+[4] 12:18:08 PM:  ShowStatusInfo: 'Ready'
+[4] 12:18:09 PM:  ShowStatusInfo: '1 object selected'
+[4] 12:18:09 PM:  ShowStatusInfo: 'Ready'
+[4] 12:18:10 PM:  ShowStatusInfo: '1 object selected'
+[4] 12:18:10 PM:  ShowStatusInfo: 'Ready'
+[4] 12:18:11 PM:  ShowStatusInfo: '1 object selected'
+[4] 12:18:11 PM:  ShowStatusInfo: 'Ready'
+[4] 12:18:21 PM:  ShowStatusInfo: '1 object selected'
+[4] 12:18:21 PM:  ShowStatusInfo: 'Ready'
+[4] 12:18:27 PM:  ShowStatusInfo: '1 object selected'
+[4] 12:18:28 PM:  ShowStatusInfo: 'Ready'
+[4] 12:18:30 PM:  ShowStatusInfo: '1 object selected'
+[4] 12:18:30 PM:  ShowStatusInfo: 'Ready'
+[4] 12:18:32 PM:  ShowStatusInfo: '1 object selected'
+[4] 12:18:32 PM:  ShowStatusInfo: 'Ready'
+[4] 12:18:33 PM:  ShowStatusInfo: '1 object selected'
+[4] 12:18:33 PM:  ShowStatusInfo: 'Ready'
+[4] 12:18:38 PM:  ShowStatusInfo: '1 object selected'
+[4] 12:18:38 PM:  ShowStatusInfo: 'Ready'
+[4] 12:18:44 PM:  ShowStatusInfo: '1 object selected'
+[4] 12:18:44 PM:  ShowStatusInfo: 'Ready'
+[4] 12:18:49 PM:  ShowStatusInfo: '1 object selected'
+[4] 12:18:49 PM:  ShowStatusInfo: 'Ready'
+[3] 12:19:04 PM: Closing Workspace!
+[3] 12:19:04 PM: Log closed!
