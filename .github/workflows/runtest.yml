@@ -14,5 +14,10 @@ jobs:
 
       - name: Run Batch File
         run: |
-          cd C:\Users\S.Shanmugam3\Tosca_Projects\Tosca_Workspaces\multiuser_con_git
-          .\test.bat
+            cd C:
+            cd Users
+            cd S.Shanmugam3
+            cd Tosca_Projects
+            cd Tosca_Workspaces
+            cd multiuser_con_git
+            .\test.bat
