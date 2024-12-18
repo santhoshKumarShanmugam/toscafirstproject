@@ -1,0 +1,20 @@
+name: Run Tosca Test Cases
+
+on:
+  push:
+    branches:
+      - test
+
+jobs:
+  run_tosca_tests:
+    runs-on: windows-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Run Batch File
+        run: |
+          REM Navigate to the directory containing the batch file
+          cd C:\Users\S.Shanmugam3\Tosca_Projects\Tosca_Workspaces\multiuser_con_git
+          REM Execute the batch file
+          .\run_tosca_tests.bat
